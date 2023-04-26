@@ -19,6 +19,10 @@
 
 * This information can help the store to optimize its inventory, ensure that the most in-demand products are always in stock, and eliminate low-performing products.
 
+### Attributes
+
+<pending>
+
 ---
 
 The dataset can be found [here](https://www.kaggle.com/datasets/crawford/80-cereals).
