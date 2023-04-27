@@ -2,7 +2,9 @@
 
 * **Aim:** Performing data analysis and visualization on a small dataset, `80 Cereals`.
 
-* **Aim**: Getting insights and asking/answering questions.
+* **Aim:** Getting insights and asking/answering questions.
+
+* **Aim:** Familiarizing myself with ***seaborn*** (a statistical plotting library based on ***matplotlib***)
 
 * Tools used:
 
